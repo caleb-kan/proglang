@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="proglang.Question7Tests" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-04-20T11:53:00" hostname="dyn28227-183.wlan.ic.ac.uk" time="6.208">
+<testsuite name="proglang.Question7Tests" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-04-25T18:27:53" hostname="Calebs-MBP" time="6.019">
   <properties/>
-  <testcase name="message passing 1" classname="proglang.Question7Tests" time="0.339"/>
-  <testcase name="message passing 2" classname="proglang.Question7Tests" time="0.283"/>
-  <testcase name="store buffering 1" classname="proglang.Question7Tests" time="1.263"/>
-  <testcase name="store buffering 2" classname="proglang.Question7Tests" time="1.3"/>
-  <testcase name="store buffering 3" classname="proglang.Question7Tests" time="0.29"/>
-  <testcase name="lots of additions 1" classname="proglang.Question7Tests" time="0.051"/>
-  <testcase name="lots of additions 2" classname="proglang.Question7Tests" time="0.275"/>
+  <testcase name="message passing 1" classname="proglang.Question7Tests" time="0.363"/>
+  <testcase name="message passing 2" classname="proglang.Question7Tests" time="0.274"/>
+  <testcase name="store buffering 1" classname="proglang.Question7Tests" time="1.264"/>
+  <testcase name="store buffering 2" classname="proglang.Question7Tests" time="1.234"/>
+  <testcase name="store buffering 3" classname="proglang.Question7Tests" time="0.314"/>
+  <testcase name="lots of additions 1" classname="proglang.Question7Tests" time="0.05"/>
+  <testcase name="lots of additions 2" classname="proglang.Question7Tests" time="0.259"/>
   <testcase name="exception if durations and pauses do not match" classname="proglang.Question7Tests" time="0.001"/>
-  <testcase name="zero sum game 1" classname="proglang.Question7Tests" time="1.695"/>
-  <testcase name="zero sum game 2" classname="proglang.Question7Tests" time="0.707"/>
+  <testcase name="zero sum game 1" classname="proglang.Question7Tests" time="1.568"/>
+  <testcase name="zero sum game 2" classname="proglang.Question7Tests" time="0.687"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

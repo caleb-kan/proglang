@@ -1,0 +1,1 @@
+ëdğhınãoÇmÃvÓnÍkñiãe÷e
